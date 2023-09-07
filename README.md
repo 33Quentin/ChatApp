@@ -1,2 +1,2 @@
 # ChatApp
-web chat app avec serveur flask et webview flet 
+Ce mini projet consiste en une web chat-app avec un serveur flask sur lequel est heberger une webview flet. 
